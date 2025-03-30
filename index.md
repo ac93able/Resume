@@ -19,4 +19,30 @@
 | User Guide on WhatsApp | WhatsApp is an instant messaging and calling application. | Created a User Guide on WhatsApp using MS Word. |
 | Getting Starting with LinkedIn | LinkedIn is a professional network platform that focuses on business and employment. | Created a Getting Starting Guide on LinkedIn using MS Word. |
 
+# KNOWLEDGE OF TOOLS
+
+| Purpose | Tools |
+| -- | -- |
+| Authoring Tools	| Oxygen XML Author, MadCap Flare, Confluence, MS Word, and Google Docs. |
+| Docs as code |	Markdown and GitHub |
+| Graphics |	Snagit, Draw.io, and Canva |
+| Video |	Camtasia |
+| Project Management |	JIRA |
+
+# EXPERIENCE
+
+**2015 - 2021**
+
+**Consultant | Capgemini**
+
+Worked as a System Analyst for an insurance client to provide production support services. Used B2B integration to maintain, manage, and develop data transfer between the client and vendors.
+
+# EDUCATION
+
+**2015**
+
+**Bachelor of Engineering (B.E.) in Electronics and Communications Engineering | Chitkara University**
+
+
+
 
