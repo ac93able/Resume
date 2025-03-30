@@ -33,7 +33,7 @@
 
 **2015 - 2021**
 
-**Consultant|Capgemini**
+**Consultant || Capgemini**
 
 Worked as a System Analyst for an insurance client to provide production support services. Used B2B integration to maintain, manage, and develop data transfer between the client and vendors.
 
