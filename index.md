@@ -12,6 +12,7 @@
 *	Learned about the fundamentals of Python.
 
 # DOCUMENTATION PROJECTS
+
 | Projects | About the Product | Documentation Activity |
 | -- | -- | -- |
 | Quick Start Guide on Tech Writers Tribe App | Tech Writer Tribe App is a global platform for Technical Writers to interact, share, and communicate. | Wrote a Quick Start Guide on Tech Writers Tribe App using MS Word and Markdown. |
