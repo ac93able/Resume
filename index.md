@@ -17,7 +17,7 @@
 | -- | -- | -- |
 | Quick Start Guide on Tech Writers Tribe App | Tech Writer Tribe App is a global platform for Technical Writers to interact, share, and communicate. | Wrote a Quick Start Guide on Tech Writers Tribe App using MS Word and Markdown. |
 | User Guide on WhatsApp | WhatsApp is an instant messaging and calling application. | Created a User Guide on WhatsApp using MS Word. |
-| Getting Starting with LinkedIn | LinkedIn is a professional network platform that focuses on business and employment. | Created a Getting Starting Guide on LinkedIn using MS Word. |
+| Getting Started with LinkedIn | LinkedIn is a professional network platform that focuses on business and employment. | Created a Getting Started Guide on LinkedIn using MS Word. |
 
 # KNOWLEDGE OF TOOLS
 
