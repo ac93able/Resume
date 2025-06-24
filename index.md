@@ -36,7 +36,29 @@
 
 Consultant | Capgemini
 
-Worked as a System Analyst for an insurance client to provide production support services. Used B2B integration to maintain, manage, and develop data transfer between the client and vendors.
+Worked as a System Analyst for a leading insurance client to provide production support services. Utilized B2B integration tools to manage and streamline data exchange between the client and vendors. Gained experience in problem-solving, stakeholder communication, and process optimization - skills that translate well into technical documentation.
+
+**Key Responsibilities:**
+* Providing optimal business and technical solutions considering existing business processes, technical workflows, and client requirements.
+* Conducting knowledge-sharing sessions for new team members and external associates.
+* Creating various knowledge management documents for the B2B teams.
+* Working on new implementations with the client and vendors.
+* Communicating and interacting with the client on various issues to discuss the status of projects.
+* Coordinating with colleagues and providing updates and activity reports to the Project Manager.
+* Writing knowledge documents for day-to-day activities and rare scenarios of projects.
+* Providing support to the client by handling tickets or issues. 
+* Maintaining quality procedures related to the project.
+
+**2021 – Present**
+
+Took a career break for successive reasons:
+* Provided medical caregiving as a primary caregiver.
+* Pursued higher education. Prepared and sat for GMAT. Scored 620 in the exam.
+* Completed certification courses in technical and content writing. Wrote and learned various types of content writing forms and technical documentation.
+  
+# CERTIFICATION
+* Technical Writing (Software) from Tech Writer's Tribe LLP
+* Content Writing Master Course from IIM Skills
 
 # EDUCATION
 
