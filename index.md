@@ -2,7 +2,8 @@
 <p style="text-align:center;"><b><span style="font-size:14px">+91-7837203394 | anubhav02011993@gmail.com </span></b></p>
 <p style="text-align:center;"><b><span style="color:black;font-size:14px">Location: Chandigarh, India </span></b></p>
 
-[LinkedIn Profile](https://www.linkedin.com/in/anubhav-chaudhary-1371a468/) | [Portfolio(Technical Writing)](https://drive.google.com/drive/folders/1zGtfQiwj25WwLOcyZZxLqA_NiHMQ1qza) | [Portfolio(Content Writing)](https://drive.google.com/drive/folders/1kE-UYHU8d6GsaU8itAoGdJKtNT799Fbd?usp=drive_link)
+| [LinkedIn Profile](https://www.linkedin.com/in/anubhav-chaudhary-1371a468/) | [Portfolio(Technical Writing)](https://drive.google.com/drive/folders/1zGtfQiwj25WwLOcyZZxLqA_NiHMQ1qza) | [Portfolio(Content Writing)](https://drive.google.com/drive/folders/1kE-UYHU8d6GsaU8itAoGdJKtNT799Fbd?usp=drive_link) |
+| -- | -- | -- |
 
 <a href="http://example.com" style="color: red;">This is a red link</a>
 
@@ -79,6 +80,7 @@ Took a career break for successive reasons:
 **2015**
 
 Bachelor of Engineering (B.E.) in Electronics and Communications Engineering | Chitkara University
+
 
 
 
