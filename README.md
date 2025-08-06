@@ -6,10 +6,6 @@
 # PROFILE SUMMARY
 A keen writer who seeks to engage deeply with words. With an academic background in engineering and years of professional experience in the technical domain as a Consultant, I have long operated at the intersection of logic and communication. During a reflective career break, I gravitated toward writing more earnestly, pursuing certifications in technical and content writing to give structure to an interest that had always lingered. Now, I stand at a thoughtful crossroads, where fiction meets functionality and storytelling meets strategy, bridging my analytical roots with my creative pursuits.
 
-# CERTIFICATION
-* Technical Writing (Software) from Tech Writer's Tribe LLP
-* Content Writing Master Course from IIM Skills
-
 # KEY HIGHLIGHTS
 *	Certified in Technical Writing (Software).
 *	Worked on Topic-based approach, Minimalism, and Structured authoring.
@@ -24,6 +20,9 @@ A keen writer who seeks to engage deeply with words. With an academic background
 *	Learned and worked on Keyword Research, Audience Persona, and Social Media Calendar.
 *	Created copywriting materials such as Product Description, Ad Copy, Social Media Post, and Email Writing.
 
+# CERTIFICATION
+* Technical Writing (Software) from Tech Writer's Tribe LLP
+* Content Writing Master Course from IIM Skills
 
 # DOCUMENTATION PROJECTS
 
