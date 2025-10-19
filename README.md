@@ -75,9 +75,9 @@ Took a career break for successive reasons:
   
 # EDUCATION
 
-**2015**
-
-Bachelor of Engineering (B.E.) in Electronics and Communications Engineering | Chitkara University
+| Course of Study | Specialization | Name of University | Address of University | Year of Completion |
+| -- | -- | -- | -- | -- | 
+| Bachelor of Engineering | Electronics and Communication Engineering | Chitkara University | Baddi, Himachal Pradesh, India | 2015 |
 
 
 
