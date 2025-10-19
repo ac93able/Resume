@@ -4,24 +4,26 @@
 **[LinkedIn Profile](https://www.linkedin.com/in/anubhav-chaudhary-1371a468/)** | **[Portfolio(Technical Writing)](https://drive.google.com/drive/folders/1zGtfQiwj25WwLOcyZZxLqA_NiHMQ1qza)** | **[Portfolio(Content Writing)](https://drive.google.com/drive/folders/1kE-UYHU8d6GsaU8itAoGdJKtNT799Fbd?usp=drive_link)**
 
 # PROFILE SUMMARY
-A keen writer who seeks to engage deeply with words. With an academic background in engineering and years of professional experience in the technical domain as a Consultant, I have long operated at the intersection of logic and communication. During a reflective career break, I gravitated toward writing more earnestly, pursuing certifications in technical and content writing to give structure to an interest that had always lingered. Now, I stand at a thoughtful crossroads, where fiction meets functionality and storytelling meets strategy, bridging my analytical roots with my creative pursuits.
+A keen writer who seeks to engage deeply with words. With an academic background in engineering and years of professional experience in the technical domain as a Consultant, I have long operated at the intersection of logic and communication. During a reflective career break, I gravitated toward writing more earnestly, pursuing certifications in technical writing, API documentation, and content writing to give structure to an interest that had always lingered. Now, I stand at a thoughtful crossroads, where fiction meets functionality and storytelling meets strategy, bridging my analytical roots with my creative pursuits.
 
 # KEY HIGHLIGHTS
-*	Certified in Technical Writing (Software).
+*	Certified in Technical Writing (Software), API Documentation, and Content Writing.
 *	Worked on Topic-based approach, Minimalism, and Structured authoring.
 *	Wrote multiple guides.
 *	Learned about the DITA framework and created DITA project using Oxygen XML Author.
 *	Developed knowledge of working with MadCap Flare, Confluence, and Markdown.
 *	Learned about JIRA and developed knowledge of working on an Agile Project.
 *	Used MSTP as a style guide.
-*	Learned about the fundamentals of Python.
-*	Certified in Content Writing.
+* Learned about documenting REST APIs and wrote various REST API documents.
+* Tested APIs using Postman and Swagger.
+* Learned about the fundamentals of Python, JSON, and YAML.
 *	Wrote and learned various types of content writing forms such as SEO-based Writing, Copywriting, Marketing Collaterals, Video Script, and SOP Writing.
 *	Learned and worked on Keyword Research, Audience Persona, and Social Media Calendar.
 *	Created copywriting materials such as Product Description, Ad Copy, Social Media Post, and Email Writing.
 
 # CERTIFICATION
 * Technical Writing (Software) from Tech Writer's Tribe LLP
+* Fundamentals of API Documentation from Tech Writer's Tribe LLP
 * Content Writing Master Course from IIM Skills
 
 # DOCUMENTATION PROJECTS
@@ -41,6 +43,7 @@ A keen writer who seeks to engage deeply with words. With an academic background
 | Graphics |	Snagit, Draw.io, and Canva |
 | Video |	Camtasia |
 | Project Management |	JIRA |
+| API Testing | Postman and Swagger |
 | Content Management System | WordPress |
 | Integrated Development Environment| Visual Studio Code |
 
